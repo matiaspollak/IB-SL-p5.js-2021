@@ -1,0 +1,22 @@
+{
+  "name": "p5js_starter_with_intellisense",
+  "version": "1.0.0",
+  "description": "In this project you can play with the [p5js](p5js.org) library. This library makes it very easy to create and draw on *drawing canvases* on web pages. You can read more about it at p5js.org.",
+  "main": "index.js",
+  "dependencies": {
+    "p5": "^0.9.0"
+  },
+  "devDependencies": {
+    "@types/p5": "^0.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidGriswoldTeacher/p5js-ML-trial"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graded-cs-resources/p5js-ML-trial/issues"
+  },
+  "homepage": "https://github.com/graded-cs-resources/p5js-ML-trial#readme"
+}

@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "node_modules": false,
+    ".gitignore": false,
+    "global.d.ts": false,
+    "package-lock.json": false,
+    "package.json": false,
+    ".git": false,
+    ".vscode": false,
+    ".theia": false,
+    ".gitpod.yml": false
+  },
+  "liveServer.settings.port": 5500
+}
